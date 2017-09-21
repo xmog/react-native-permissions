@@ -8,3 +8,7 @@ gradle-wrapper.jar
 local.properties
 gradlew.bat
 android.iml
+
+.DS_Store
+
+xcuserdata
